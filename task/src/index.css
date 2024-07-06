@@ -1,0 +1,11 @@
+.container{
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inp{
+  padding: 5px 0;
+  padding-left: 8px;
+}
